@@ -1,0 +1,2 @@
+Sql bağlantısı "baglanti.php" bölümünde bulunmakta.
+Sql sorguları ise baglanti.php, fonksiyonlar.php, kayit.php, login.php ve logout.php bölümlerinde bulunmakta.
